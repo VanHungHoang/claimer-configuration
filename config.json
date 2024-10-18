@@ -1,0 +1,8 @@
+{
+  "maxThreads": 2,
+  "codeDailyCombo": "3,8,5",
+  "AUTO_RANK_UPGRADE": false,
+  "AUTO_SPIN": false,
+  "SkipTasks": [1054, 1055, 1056, 1057, 1058, 1059, 1060, 264],
+  "autoDoTask": true
+}
