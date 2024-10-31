@@ -1,8 +1,129 @@
-{
-  "maxThreads": 2,
-  "codeDailyCombo": "7,1,9",
-  "AUTO_RANK_UPGRADE": false,
-  "AUTO_SPIN": false,
-  "SkipTasks": [1054, 1055, 1056, 1057, 1058, 1059, 1060, 264],
-  "autoDoTask": true
+{ 
+  "projects": {
+    "tomato": {
+      "codeDailyCombo": "7,1,9",
+    },
+    "blum": {
+      "SkipTasks": [
+        "5daf7250-76cc-4851-ac44-4c7fdcfe5994",
+        "3b0ae076-9a85-4090-af55-d9f6c9463b2b",
+        "89710917-9352-450d-b96e-356403fc16e0",
+        "220ee7b1-cca4-4af8-838a-2001cb42b813",
+        "c4e04f2e-bbf5-4e31-917b-8bfa7c4aa3aa",
+        "f382ec3f-089d-46de-b921-b92adfd3327a",
+        "d3716390-ce5b-4c26-b82e-e45ea7eba258",
+        "5ecf9c15-d477-420b-badf-058537489524",
+        "a4ba4078-e9e2-4d16-a834-02efe22992e2",
+        "a4bebdf8-3014-4c09-9e37-b4d12a183dc1",
+        "bb19a1e8-1857-4ea2-bea0-38f225d4c783",
+        "b6b42ba6-c2f4-4ab8-9ca4-97da027ed67e",
+        "3356088d-1da3-49aa-935d-368791c24c83",
+        "22af3e8a-5c9a-47c1-a974-d0a0a418331b",
+        "1b0af971-408e-4585-ad94-befd2fc7caa7",
+        "f28ff4c4-5156-46d7-85ce-3233bd231fb7",
+        "43f73bb4-ec7f-46e8-a80a-a7b524f66d1e",
+        "a008b8eb-4e5b-40d0-bc26-59582e53a7e5",
+        "97d50b4c-a070-4136-a41d-390e67b883e0",
+        "1572a605-d714-4f2c-8045-9c5f874d9c7e",
+        "8fb5e7af-2045-4bfe-aeb9-e0ad572e75ee"
+      ],
+      "YouTubeTasks": [{
+        "id": "d95d3299-e035-4bf6-a7ca-0f71578e9197",
+        "title": "Secure your Crypto!",
+        "keyword": "BEST PROJECT EVER"
+      },{
+        "id": "6af85c01-f68d-4311-b78a-9cf33ba5b151",
+        "title": "Forks Explained?",
+        "keyword": "GO GET"
+      },{
+        "id": "38f6dd88-57bd-4b42-8712-286a06dac0a0",
+        "title": "How to Analyze crypto",
+        "keyword": "VALUE"
+      },{
+        "id": "53044aaf-a51f-4dfc-851a-ae2699a5f729",
+        "title": "Navigating Crypto",
+        "keyword": "heyblum"
+      },{
+        "id": "350501e9-4fe4-4612-b899-b2daa11071fb",
+        "title": "What Are AMMs?",
+        "keyword": "CRYPTOSMART"
+      },{
+        "id": "b611352b-0d8c-44ec-8e0f-cd71b5922ca5",
+        "title": "Liquidity Pools Guide",
+        "keyword": "BLUMERSSS"
+      },{
+        "id": "92373c2b-2bf3-44c0-90f7-a7fd146c05c5",
+        "title": "$2.5M+ DOGS Airdrop",
+        "keyword": "HAPPYDOGS"
+      },{
+        "id": "d2715289-b487-43bc-bc21-18224f8f6bc3",
+        "title": "Doxxing? What's that?",
+        "keyword": "Nodoxxing"
+      },{
+        "id": "7067a3db-d9c5-4268-ac19-c393743e8491",
+        "title": "Pre-Market Trading?",
+        "keyword": "Wowblum"
+      },{
+        "id": "1572a605-d714-4f2c-8045-9c5f874d9c7e",
+        "title": "How to Memecoin?",
+        "keyword": "memeblum"
+      },{
+        "id": "30d9f351-614e-4565-a1bb-e7e94fc3dc3c",
+        "title": "Token Burning: How & Why?",
+        "keyword": "onfire"
+      },{
+        "id": "3c048e58-6bb5-4cba-96cb-e564c046de58",
+        "title": "Say No to Rug Pull!",
+        "keyword": "superblum"
+      },{
+        "id": "f83c525c-9844-469b-a104-817814f337e7",
+        "title": "What's DAO?",
+        "keyword": "N/A"
+      },{
+        "id": "835d4d8a-f9af-4ff5-835e-a15d48e465e6",
+        "title": "What are Telegram Mini Apps?",
+        "keyword": "CRYPTOBLUM"
+      },{
+        "id": "d2a972a1-12ab-4c7b-a411-da056609f2bd",
+        "title": "Bitcoin Rainbow Chart?",
+        "keyword": "SOBLUM"
+      },{
+        "id": "56d210c1-446b-473b-b7c4-cba856b4476c",
+        "title": "Crypto Terms. Part 1",
+        "keyword": "BLUMEXPLORER"
+      },{
+        "id": "25928ae7-c3c2-40ba-bb78-975ed68e4a5a",
+        "title": "How to trade Perps?",
+        "keyword": "CRYPTOFAN"
+      },{
+        "id": "dc627a62-f747-4cbb-981f-62cf82a85458",
+        "title": "Sharding Explained:",
+        "keyword": "BLUMTASTIC"
+      },{
+        "id": "71ad89ea-f11f-4825-af9c-408fba7dfd8e",
+        "title": "DeFi Explained",
+        "keyword": "BLUMFORCE"
+      },{
+        "id": "a669a160-45fd-4935-9eda-58079e19aad5",
+        "title": "How To Find Altcoins?",
+        "keyword": "ULTRABLUM"
+      },{
+        "id": "7491c933-e49d-4a60-89cd-53d9fe690dca",
+        "title": "Crypto Slang. Part 1",
+        "keyword": "BLUMSTORM"
+      },{
+        "id": "900bc6e5-d73e-49fe-adf5-1f8111f1b431",
+        "title": "What is On-chain Analysis?",
+        "keyword": "BLUMEXTRA"
+      },{
+        "id": "6fb7499f-8b38-4132-8255-c3184cc2712c",
+        "title": "Pumptober Special",
+        "keyword": "PUMPIT"
+      },{
+        "id": "98d390d1-95da-475f-8df9-53a335842c3a",
+        "title": "DeFi Risks: Key Insights",
+        "keyword": "BLUMHELPS"
+      }]
+    }
+  }
 }
