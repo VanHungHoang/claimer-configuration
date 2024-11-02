@@ -1,7 +1,7 @@
 { 
   "projects": {
     "tomato": {
-      "codeDailyCombo": "10,12,2"
+      "codeDailyCombo": "9,4,12"
     },
     "blum": {
       "SkipTasks": [
