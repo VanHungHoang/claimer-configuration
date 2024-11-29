@@ -6,14 +6,12 @@
     "blum": {
       "SkipTasks": [
         "5daf7250-76cc-4851-ac44-4c7fdcfe5994",
-        "3b0ae076-9a85-4090-af55-d9f6c9463b2b",
         "89710917-9352-450d-b96e-356403fc16e0",
         "220ee7b1-cca4-4af8-838a-2001cb42b813",
         "c4e04f2e-bbf5-4e31-917b-8bfa7c4aa3aa",
         "f382ec3f-089d-46de-b921-b92adfd3327a",
         "d3716390-ce5b-4c26-b82e-e45ea7eba258",
         "5ecf9c15-d477-420b-badf-058537489524",
-        "a4ba4078-e9e2-4d16-a834-02efe22992e2",
         "a4bebdf8-3014-4c09-9e37-b4d12a183dc1",
         "bb19a1e8-1857-4ea2-bea0-38f225d4c783",
         "b6b42ba6-c2f4-4ab8-9ca4-97da027ed67e",
@@ -123,6 +121,54 @@
         "id": "98d390d1-95da-475f-8df9-53a335842c3a",
         "title": "DeFi Risks: Key Insights",
         "keyword": "BLUMHELPS"
+      },{
+        "id": "92bc4338-85ca-4bf9-a0a5-320e677116fd",
+        "title": "Crypto Slang. Part 2",
+        "keyword": "FOMOOO"
+      },{
+        "id": "bb84e765-31aa-4f0d-8430-b3f75d88c1aa",
+        "title": "Choosing a Crypto Exchange",
+        "keyword": "CRYPTOZONE"
+      },{
+        "id": "addab034-69c2-48f4-a532-84dc2b33a0d2",
+        "title": "Crypto Regulations #2",
+        "keyword": "BLUMRULES"
+      },{
+          "id": "85b81d92-99ad-4150-97dd-44fffe8134f9",
+          "title": "DEX History",
+          "keyword": "GODEX"
+      },{
+          "id": "38284c35-e1e3-43da-b2c6-34981677f926",
+          "title": "Regulation: Yay or Nay?",
+          "keyword": "BLUMSSS"
+      },{
+          "id": "76b9a0fc-a67c-45ab-92fe-68530d45f57f",
+          "title": "Crypto Slang. Part 3",
+          "keyword": "BOOBLUM"
+      },{
+          "id": "f59b84fe-61ae-4cf5-8aae-5fd00321e052",
+          "title": "Smart Contracts 101",
+          "keyword": "SMARTBLUM"
+      },{
+          "id": "6ffe9d16-e63c-49f0-935d-f428e29d4a4d",
+          "title": "What’s Next for DeFi?",
+          "keyword": "BLUMNOW"
+      },{
+          "id": "a11ba4c2-6be5-4dd8-a371-b2ed82632e6a",
+          "title": "What is Slippage?",
+          "keyword": "Cryptobuzz"
+      },{
+          "id": "d275de44-df86-45f7-92e0-fb28e3a01830",
+          "title": "Understanding Gas Fees",
+          "keyword": "CRYPTOGAS"
+      },{
+          "id": "4477c434-f8df-4432-a3d7-b47a6e44c1d7",
+          "title": "What's Crypto DEX?",
+          "keyword": "Dexxx"
+      },{
+          "id": "7a3502e2-cdc7-4842-8879-bbeb2ebec594",
+          "title": "Node Sales in Crypto",
+          "keyword": "BLUMIFY"
       }]
     }
   }
